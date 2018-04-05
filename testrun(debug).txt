@@ -1,0 +1,155 @@
+Testing ford_focus_wgn_ztw_2010.txt
+Initializing build of Automobile from ford_focus_wgn_ztw_2010.txt
+Parsing car configuration
+Opening file
+Reading: ford_focus_wgn_ztw_2010, 18445.00, 5
+Extracting Metadata from file
+Metadata successfully configured
+Reading: Color, Transmission, Brakes/Traction Control, Side Impact Airbags, Moonroof
+Assigning OptionSet titles
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Reading: Fort Knox Gold Clearcoat Metallic, 0, Liquid Grey Clearcoat Metallic, 0, Infra-Red Clearcoat, 0, Grabber Green Clearcoat Metallic, 0, Sangria Red Clearcoat Metallic, 0, French Blue Clearcoat Metallic, 0, Twilight Blue Clearcoat Metallic, 0, CD Silver Clearcoat Metallic, 0, Pitch Black Clearcoat, 0, Cloud 9 White Clearcoat, 0,
+Beginning creation of Options
+Extracting titles and prices
+Copying array of Options to Color
+Creating array of Options
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Option array successfully assigned to OptionSet
+Reading: Automatic, 0, Manual, 815.0
+Beginning creation of Options
+Extracting titles and prices
+Copying array of Options to Transmission
+Creating array of Options
+Constructing Option
+Constructing Option
+Option array successfully assigned to OptionSet
+Reading: Standard, 0, ABS, 400, ABS and Advance Trac, 1625
+Beginning creation of Options
+Extracting titles and prices
+Copying array of Options to Brakes/Traction Control
+Creating array of Options
+Constructing Option
+Constructing Option
+Constructing Option
+Option array successfully assigned to OptionSet
+Reading: present, 350, not present, 0
+Beginning creation of Options
+Extracting titles and prices
+Copying array of Options to Side Impact Airbags
+Creating array of Options
+Constructing Option
+Constructing Option
+Option array successfully assigned to OptionSet
+Reading: present, 595, not present, 0
+Beginning creation of Options
+Extracting titles and prices
+Copying array of Options to Moonroof
+Creating array of Options
+Constructing Option
+Constructing Option
+Option array successfully assigned to OptionSet
+Reading: null
+Constructing Automobile
+Autombile successfully created!
+=========================================
+
+	ford_focus_wgn_ztw_2010
+
+Base Price: $18445.00
+Options   :  5
+
+	____________________________
+	Color
+	   - $ 0 	Fort Knox Gold Clearcoat Metallic		
+	   - $ 0 	 Liquid Grey Clearcoat Metallic		
+	   - $ 0 	 Infra-Red Clearcoat		
+	   - $ 0 	 Grabber Green Clearcoat Metallic		
+	   - $ 0 	 Sangria Red Clearcoat Metallic		
+	   - $ 0 	 French Blue Clearcoat Metallic		
+	   - $ 0 	 Twilight Blue Clearcoat Metallic		
+	   - $ 0 	 CD Silver Clearcoat Metallic		
+	   - $ 0 	 Pitch Black Clearcoat		
+	   - $ 0 	 Cloud 9 White Clearcoat		
+	____________________________
+	Transmission
+	   - $ 0 	Automatic		
+	   - $ 815.0 	 Manual		
+	____________________________
+	Brakes/Traction Control
+	   - $ 0 	Standard		
+	   - $ 400 	 ABS		
+	   - $ 1625 	 ABS and Advance Trac		
+	____________________________
+	Side Impact Airbags
+	   - $ 350 	present		
+	   - $ 0 	 not present		
+	____________________________
+	Moonroof
+	   - $ 595 	present		
+	   - $ 0 	 not present		
+=========================================
+
+Creating Serial File
+Path: binaries/ford_focus_wgn_ztw_2010.dat
+Object successfully serialized!
+
+
+
+Testing Deserialization
+Reading in serial file
+Path: binaries/ford_focus_wgn_ztw_2010.dat
+Serial file successfully read!
+=========================================
+
+	ford_focus_wgn_ztw_2010
+
+Base Price: $18445.00
+Options   :  5
+
+	____________________________
+	Color
+	   - $ 0 	Fort Knox Gold Clearcoat Metallic		
+	   - $ 0 	 Liquid Grey Clearcoat Metallic		
+	   - $ 0 	 Infra-Red Clearcoat		
+	   - $ 0 	 Grabber Green Clearcoat Metallic		
+	   - $ 0 	 Sangria Red Clearcoat Metallic		
+	   - $ 0 	 French Blue Clearcoat Metallic		
+	   - $ 0 	 Twilight Blue Clearcoat Metallic		
+	   - $ 0 	 CD Silver Clearcoat Metallic		
+	   - $ 0 	 Pitch Black Clearcoat		
+	   - $ 0 	 Cloud 9 White Clearcoat		
+	____________________________
+	Transmission
+	   - $ 0 	Automatic		
+	   - $ 815.0 	 Manual		
+	____________________________
+	Brakes/Traction Control
+	   - $ 0 	Standard		
+	   - $ 400 	 ABS		
+	   - $ 1625 	 ABS and Advance Trac		
+	____________________________
+	Side Impact Airbags
+	   - $ 350 	present		
+	   - $ 0 	 not present		
+	____________________________
+	Moonroof
+	   - $ 595 	present		
+	   - $ 0 	 not present		

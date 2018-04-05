@@ -1,0 +1,63 @@
+Testing ford_focus_wgn_ztw_2010.txt
+Initializing build of Automobile from ford_focus_wgn_ztw_2010.txt
+Parsing car configuration
+Opening file
+Reading: ford_focus_wgn_ztw_2010, 18445.00, 5
+Extracting Metadata from file
+Metadata successfully configured
+Reading: Color, Transmission, Brakes/Traction Control, Side Impact Airbags, Moonroof
+Assigning OptionSet titles
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Constructing default option
+Constructing default OptionSet
+Reading: Fort Knox Gold Clearcoat Metallic, 0, Liquid Grey Clearcoat Metallic, 0, Infra-Red Clearcoat, 0, Grabber Green Clearcoat Metallic, 0, Sangria Red Clearcoat Metallic, 0, French Blue Clearcoat Metallic, 0, Twilight Blue Clearcoat Metallic, 0, CD Silver Clearcoat Metallic, 0, Pitch Black Clearcoat, 0, Cloud 9 White Clearcoat, 0,
+Beginning creation of Options
+Extracting titles and prices
+Copying array of Options to Color
+Creating array of Options
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Constructing Option
+Option array successfully assigned to OptionSet
+Reading: null
+Constructing Automobile
+Autombile successfully created!
+=========================================
+
+	ford_focus_wgn_ztw_2010
+
+Base Price: $18445.00
+Options   :  5
+
+	____________________________
+	Color
+	   - $ 0 	Fort Knox Gold Clearcoat Metallic		
+	   - $ 0 	 Liquid Grey Clearcoat Metallic		
+	   - $ 0 	 Infra-Red Clearcoat		
+	   - $ 0 	 Grabber Green Clearcoat Metallic		
+	   - $ 0 	 Sangria Red Clearcoat Metallic		
+	   - $ 0 	 French Blue Clearcoat Metallic		
+	   - $ 0 	 Twilight Blue Clearcoat Metallic		
+	   - $ 0 	 CD Silver Clearcoat Metallic		
+	   - $ 0 	 Pitch Black Clearcoat		
+	   - $ 0 	 Cloud 9 White Clearcoat		
+	____________________________
+	Transmission
+Exception in thread "main" java.lang.NullPointerException
+	at model.OptionSet.print(OptionSet.java:104)
+	at model.Automobile.print(Automobile.java:95)
+	at driver.Driver.main(Driver.java:17)

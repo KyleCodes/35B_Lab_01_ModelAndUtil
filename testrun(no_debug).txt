@@ -1,0 +1,75 @@
+Testing ford_focus_wgn_ztw_2010.txt
+=========================================
+
+	ford_focus_wgn_ztw_2010
+
+Base Price: $18445.00
+Options   :  5
+
+	____________________________
+	Color
+	   - $ 0 	Fort Knox Gold Clearcoat Metallic		
+	   - $ 0 	 Liquid Grey Clearcoat Metallic		
+	   - $ 0 	 Infra-Red Clearcoat		
+	   - $ 0 	 Grabber Green Clearcoat Metallic		
+	   - $ 0 	 Sangria Red Clearcoat Metallic		
+	   - $ 0 	 French Blue Clearcoat Metallic		
+	   - $ 0 	 Twilight Blue Clearcoat Metallic		
+	   - $ 0 	 CD Silver Clearcoat Metallic		
+	   - $ 0 	 Pitch Black Clearcoat		
+	   - $ 0 	 Cloud 9 White Clearcoat		
+	____________________________
+	Transmission
+	   - $ 0 	Automatic		
+	   - $ 815.0 	 Manual		
+	____________________________
+	Brakes/Traction Control
+	   - $ 0 	Standard		
+	   - $ 400 	 ABS		
+	   - $ 1625 	 ABS and Advance Trac		
+	____________________________
+	Side Impact Airbags
+	   - $ 350 	present		
+	   - $ 0 	 not present		
+	____________________________
+	Moonroof
+	   - $ 595 	present		
+	   - $ 0 	 not present		
+
+Testing Deserialization
+=========================================
+
+	ford_focus_wgn_ztw_2010
+
+Base Price: $18445.00
+Options   :  5
+
+	____________________________
+	Color
+	   - $ 0 	Fort Knox Gold Clearcoat Metallic		
+	   - $ 0 	 Liquid Grey Clearcoat Metallic		
+	   - $ 0 	 Infra-Red Clearcoat		
+	   - $ 0 	 Grabber Green Clearcoat Metallic		
+	   - $ 0 	 Sangria Red Clearcoat Metallic		
+	   - $ 0 	 French Blue Clearcoat Metallic		
+	   - $ 0 	 Twilight Blue Clearcoat Metallic		
+	   - $ 0 	 CD Silver Clearcoat Metallic		
+	   - $ 0 	 Pitch Black Clearcoat		
+	   - $ 0 	 Cloud 9 White Clearcoat		
+	____________________________
+	Transmission
+	   - $ 0 	Automatic		
+	   - $ 815.0 	 Manual		
+	____________________________
+	Brakes/Traction Control
+	   - $ 0 	Standard		
+	   - $ 400 	 ABS		
+	   - $ 1625 	 ABS and Advance Trac		
+	____________________________
+	Side Impact Airbags
+	   - $ 350 	present		
+	   - $ 0 	 not present		
+	____________________________
+	Moonroof
+	   - $ 595 	present		
+	   - $ 0 	 not present		
