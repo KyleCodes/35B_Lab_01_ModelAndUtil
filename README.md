@@ -1,0 +1,2 @@
+# 35B_Lab_01_ModelAndUtil
+This is step one of a quarter long project. The goal over six iterations is to create a web enabled service similar to Kelly Blue Book. In Lab_01, I have created a model package containing the automobile framework that will be later stored in a database. Additionally, I have created a util package that handles file reading / writing to process text files into automobile objects
